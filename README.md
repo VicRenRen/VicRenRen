@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">✨ Hi, I'm Victor 👋, and this is my GitHub page! ✨</h1>
-<h2>[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vicrenren/https://www.linkedin.com/in/vicrenren/)]</h2>
+<h2>[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicrenren/https://www.linkedin.com/in/vicrenren/)</h2>
 <p align="center">
 
 ###   
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### My Stats:
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VicRenRen&count_private=true&theme=calm&showicons=true)]()
-[![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=VicRenRen]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VicRenRen&theme=calm&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicRenRen&langs_count=5&theme=calm)]() -->
 
@@ -48,4 +48,6 @@ Here are some ideas to get you started:
   
   
 ##__________________________________________________________________________________________________________________________________
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
 </p>
