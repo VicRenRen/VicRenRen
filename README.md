@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">✨ Hi, I'm``` Victor ```👋, and this is my GitHub page! ✨ <a href="https://www.linkedin.com/in/vicrenren/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </h1>
-<p align="center">
+
 ----
 
 ## ``` Languages: ```  
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
  ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![image](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) 
   
 ----
-  
+<div align="center">  
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=gotham)
   
-</p>
+</div>
  
