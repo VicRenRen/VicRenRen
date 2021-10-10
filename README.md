@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ----
   
-### ```http Tools: ```  
+## ``` Tools: ```  
   
  ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![image](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) 
   
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
   
 ----
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=calm)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=calm&hide_border=true)
   
 </p>
