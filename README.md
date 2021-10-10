@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">✨ Hi, I'm Victor 👋, and this is my GitHub page! ✨</h1>
-<h2>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</h2>
+<h2>
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</h2>
 
 <p align="center">
 
-###   
-
-## __________________________________________________________________________________________________________________________________
+----
   
 ### My Stats:
   
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicRenRen&langs_count=5&theme=calm)]() -->
 
-## __________________________________________________________________________________________________________________________________
+----
   
 ### Languages:  
   
@@ -41,14 +41,13 @@ Here are some ideas to get you started:
   
  ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![image](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) 
   
-  
-## __________________________________________________________________________________________________________________________________
+----
   
 ### Contact me:  
   
   
   
-## __________________________________________________________________________________________________________________________________
+----
   
   ![Jokes Card](https://readme-jokes.vercel.app/api&theme=calm)
   
