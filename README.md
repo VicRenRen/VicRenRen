@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">✨ Hi, I'm Victor 👋, and this is my GitHub page! ✨ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vicrenren/https://www.linkedin.com/in/vicrenren/)</h1>
+<h1 align="center">✨ Hi, I'm Victor 👋, and this is my GitHub page! ✨</h1>
+<h2>[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vicrenren/https://www.linkedin.com/in/vicrenren/)]</h2>
 <p align="center">
 
 ###   
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 ### My Stats:
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VicRenRen&count_private=true&theme=calm&showicons=true)]()
-[![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=VicRenRen&theme=calm&showicons=true]()
+[![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=VicRenRen]()
   
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicRenRen&langs_count=5&theme=calm)]() -->
 
