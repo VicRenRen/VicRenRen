@@ -39,12 +39,8 @@ Here are some ideas to get you started:
   
 ----
   
-### Contact me:  
   
-  
-  
-----
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=calm&hide_border=false)
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=calm&hide_border=true)
+
   
 </p>
