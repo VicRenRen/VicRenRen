@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">✨ Hi, I'm``` Victor ```👋, and this is my GitHub page! ✨ <a href="https://www.linkedin.com/in/vicrenren/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </h1>
+<h1 align="center">✨ Hi, I'm ``` Victor ```👋, and this is my GitHub page! ✨ <a href="https://www.linkedin.com/in/vicrenren/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </h1>
 
 ----
 
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 <div align="center">  
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=gotham)
-![Visitor Count](https://profile-counter.glitch.me/VicRenRen/count.svg)
+
 </div>
  
