@@ -45,6 +45,6 @@ Here are some ideas to get you started:
   
 ----
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=calm&hide_border=true)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=calm&hide_border=false)
   
 </p>
