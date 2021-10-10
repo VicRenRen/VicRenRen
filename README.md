@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body align="center">
-<h1>✨ Hi, I'm``` Victor ```👋, and this is my GitHub page! ✨ <a href="https://www.linkedin.com/in/vicrenren/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </h1>
 
+<h1 align="center">✨ Hi, I'm``` Victor ```👋, and this is my GitHub page! ✨ <a href="https://www.linkedin.com/in/vicrenren/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </h1>
+
+<p align="center">
 ----
 
 ## ``` Languages: ```  
@@ -43,5 +44,5 @@ Here are some ideas to get you started:
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=gotham)
   
-</body>
+</p>
  
