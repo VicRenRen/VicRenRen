@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=gotham)
 
 </div>
+
 ----
 <div align="center">
   
