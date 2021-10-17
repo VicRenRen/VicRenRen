@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VicRenRen&count_private=true&theme=calm&showicons=true)]()
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VicRenRen&theme=calm&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicRenRen&langs_count=5&theme=calm)]() -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicRenRen&langs_count=5&theme=calm)]()
 </div>
 
 ----
