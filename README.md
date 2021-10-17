@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=gotham)
 ----
   
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicRenRen&layout=compact&langs_count=8&theme=calm)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicRenRen&langs_count=10&layout=compact&theme=calm)]()
   
 </div>
