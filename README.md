@@ -37,11 +37,8 @@ Here are some ideas to get you started:
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VicRenRen&count_private=true&theme=calm&showicons=true)]()
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VicRenRen&theme=calm&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
 
 ----
-<div align="center">  
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=gotham)
 </div>
